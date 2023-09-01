@@ -1,2 +1,2 @@
 # House-Price-Prediction-UK
-Predicting the house price in the UK
+This is my first R introductory experiement and it may not be complete as I started learning with this project. 
